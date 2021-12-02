@@ -1,1 +1,1 @@
-# Datamining_Project
+It is a project of "A Disease Diagnosis and Treatment Recommendation System Based on Data Mining Techniques". Here we used Density peak clustering algorithm for disease diagonosis and For treatment recommendation system we used Apriori algorithm where we applied some associations rules on disease diagnosis and treatment recommendation. Our future step is use  cloud computing so that this system can use globally and for real time experience.
